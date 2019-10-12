@@ -1,6 +1,7 @@
 # Cute-Termux
 # Made By Charlie : The hacker
 ### This script will make your termux look better. Enjoy! ! 
+![logo](IMG_20191012_135437.jpg)
 #### Installing
 
 1. git clone https://github.com/CharlieTheHack1/Cute-Termux
